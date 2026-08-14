@@ -1,0 +1,134 @@
+body {
+    background-color: #ffeef5;
+    color: #4a3040;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    /* Insira o caminho da sua imagem entre os parênteses */
+    background-image: url(https://i.pinimg.com/originals/6d/e4/04/6de40451924ac40fa44d46dae62cf78d.gif); 
+            
+    /* Impede que a imagem se repita na tela */
+    background-repeat: no-repeat; 
+     
+    /* Faz a imagem cobrir toda a extensão da tela */
+    background-size: cover; 
+     
+    /* Centraliza a imagem no fundo */
+    background-position: center; 
+     
+    /* Mantém a imagem fixa enquanto rola a página (opcional) */
+    background-attachment: fixed; 
+     
+    /* Define uma margem ou altura mínima para o corpo */
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    width: 700px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border: 2px solid #f3a6c5;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.container1 {
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border: 2px solid #f3a6c5;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.container2 {
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border: 2px solid #f3a6c5;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.container3 {
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border: 2px solid #f3a6c5;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.container4 {
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border: 2px solid #f3a6c5;
+    border-radius: 15px;
+    text-align: center;
+}
+
+h1 {
+    color: #d94f83;
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    color: #c74372;
+    margin-top: 35px;
+    font-family: "Coiny", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    font-family: "Coiny", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.intro {
+    font-size: 20px;
+}
+
+.botao {
+    background-color: #d94f83;
+    color: white;
+    width: 200px;
+    padding: 15px;
+    margin: 25px auto;
+    display: block;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: "Coiny", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+.personagem {
+    width: 800px;
+    height: 600px;
+    position: absolute;
+    top: 1450px;
+    left: -30px;
+}
+
+.arvore-sakura2 {
+    width: 400px;
+    height: 400px;
+}
